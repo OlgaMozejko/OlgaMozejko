@@ -1,14 +1,10 @@
-![OMoz](./omoz.jpg?raw=true "Let's Play Tenzi")
-
 ### ✨ Hello there ✨
 
-- 🔭 I’m currently working on ... little bit of everything...
-- 🌱 I’m currently learning ... React and Phyton
+- 🔭 I’m currently working on ... app for bookworms...
+- 🌱 I’m currently learning ... backend
 - 👯 I’m looking to collaborate on ... Open Source project
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My portfolio](https://portfolio.omozejko.com/)
+- 📫 How to reach me: ... [linkedIn]([https://www.linkedin.com/in/o-mozejko/])
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I love gaming 🎮
-
-[![@omoz's Holopin board](https://holopin.io/api/user/board?user=omoz)](https://holopin.io/@omoz)
+- ⚡ Fun fact: ... I love gaming 🎮 reading 📚 and ro crochet 🧶
 
